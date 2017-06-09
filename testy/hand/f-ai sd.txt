@@ -1,0 +1,37 @@
+PokerStars Hand #166685364768:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:30:45 ET
+Table 'Jokaste' 6-max Seat #4 is the button
+Seat 1: peke10go ($10.17 in chips) 
+Seat 3: asdEmo ($13.81 in chips) 
+Seat 4: Andy Wolf ($10 in chips) 
+Seat 5: tumedico.com ($3.11 in chips) 
+Seat 6: LarryTheStar ($12.39 in chips) 
+tumedico.com: posts small blind $0.05
+LarryTheStar: posts big blind $0.10
+*** HOLE CARDS ***
+peke10go: folds 
+asdEmo: folds 
+Andy Wolf: folds 
+tumedico.com: calls $0.05
+LarryTheStar: raises $0.20 to $0.30
+tumedico.com: calls $0.20
+*** FLOP *** [4h 4d 3d]
+tumedico.com: checks 
+LarryTheStar: bets $0.40
+tumedico.com: raises $0.40 to $0.80
+LarryTheStar: raises $3.10 to $3.90
+tumedico.com: calls $2.01 and is all-in
+Uncalled bet ($1.09) returned to LarryTheStar
+*** TURN *** [4h 4d 3d] [5h]
+*** RIVER *** [4h 4d 3d 5h] [Ad]
+*** SHOW DOWN ***
+tumedico.com: shows [3h Qh] (two pair, Fours and Threes)
+LarryTheStar: shows [Js 4s] (three of a kind, Fours)
+LarryTheStar collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.22 | Rake $0.28 
+Board [4h 4d 3d 5h Ad]
+Seat 1: peke10go folded before Flop (didn't bet)
+Seat 3: asdEmo folded before Flop (didn't bet)
+Seat 4: Andy Wolf (button) folded before Flop (didn't bet)
+Seat 5: tumedico.com (small blind) showed [3h Qh] and lost with two pair, Fours and Threes
+Seat 6: LarryTheStar (big blind) showed [Js 4s] and won ($5.94) with three of a kind, Fours

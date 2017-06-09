@@ -1,0 +1,40 @@
+PokerStars Hand #166685107816:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:15:18 ET
+Table 'Tolosa' 6-max Seat #4 is the button
+Seat 1: LarryTheStar ($10 in chips) 
+Seat 2: alur7 ($8.32 in chips) 
+Seat 3: DayaShip ($12.35 in chips) 
+Seat 4: Sleamdank ($12.26 in chips) 
+Seat 5: shenglongdou ($6.74 in chips) 
+Seat 6: Jackarf ($11.10 in chips) 
+shenglongdou: posts small blind $0.05
+Jackarf: posts big blind $0.10
+*** HOLE CARDS ***
+LarryTheStar: calls $0.00
+alur7: folds 
+DayaShip: raises $0.15 to $0.25
+Sleamdank: raises $0.55 to $0.80
+shenglongdou: calls $0.75
+Jackarf: calls $0.70
+LarryTheStar: folds
+DayaShip: calls $0.55
+*** FLOP *** [Ah Jh 6h]
+shenglongdou: checks 
+Jackarf: checks 
+DayaShip: checks 
+Sleamdank: checks 
+*** TURN *** [Ah Jh 6h] [Kh]
+shenglongdou: bets $5.94 and is all-in
+Jackarf: folds 
+DayaShip: folds 
+Sleamdank: folds 
+Uncalled bet ($5.94) returned to shenglongdou
+shenglongdou collected $3.06 from pot
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.14 
+Board [Ah Jh 6h Kh]
+Seat 1: LarryTheStar folded before Flop (didn't bet)
+Seat 2: alur7 folded before Flop (didn't bet)
+Seat 3: DayaShip folded on the Turn
+Seat 4: Sleamdank (button) folded on the Turn
+Seat 5: shenglongdou (small blind) collected ($3.06)
+Seat 6: Jackarf (big blind) folded on the Turn

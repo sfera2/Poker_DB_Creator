@@ -1,0 +1,36 @@
+PokerStars Hand #166685276421:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:25:31 ET
+Table 'Helina' 6-max Seat #5 is the button
+Seat 1: zxcvbnm577 ($11.79 in chips) 
+Seat 2: satisfied04 ($7.75 in chips) 
+Seat 4: neamtzul82 ($10.39 in chips) 
+Seat 5: gaHy_HaXeP ($10 in chips) 
+Seat 6: P308mnlt ($20.73 in chips) 
+P308mnlt: posts small blind $0.05
+zxcvbnm577: posts big blind $0.10
+*** HOLE CARDS ***
+satisfied04: folds 
+neamtzul82: folds 
+gaHy_HaXeP: raises $0.12 to $0.22
+P308mnlt: folds 
+zxcvbnm577: calls $0.12
+*** FLOP *** [3d Th 4h]
+zxcvbnm577: checks 
+gaHy_HaXeP: checks 
+*** TURN *** [3d Th 4h] [Qd]
+zxcvbnm577: bets $0.20
+gaHy_HaXeP: calls $0.20
+*** RIVER *** [3d Th 4h Qd] [3s]
+zxcvbnm577: bets $0.40
+gaHy_HaXeP: calls $0.40
+*** SHOW DOWN ***
+zxcvbnm577: shows [Js 7s] (a pair of Threes)
+gaHy_HaXeP: shows [9d Qs] (two pair, Queens and Threes)
+gaHy_HaXeP collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.08 
+Board [3d Th 4h Qd 3s]
+Seat 1: zxcvbnm577 (big blind) showed [Js 7s] and lost with a pair of Threes
+Seat 2: satisfied04 folded before Flop (didn't bet)
+Seat 4: neamtzul82 folded before Flop (didn't bet)
+Seat 5: gaHy_HaXeP (button) showed [9d Qs] and won ($1.61) with two pair, Queens and Threes
+Seat 6: P308mnlt (small blind) folded before Flop

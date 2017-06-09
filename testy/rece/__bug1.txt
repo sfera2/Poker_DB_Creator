@@ -1,0 +1,45 @@
+PokerStars Hand #166669074742:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/23 16:31:07 ET
+Table 'Luanda' 6-max Seat #1 is the button
+Seat 1: AM-L-SL ($5.75 in chips)
+Seat 2: Xander188 ($14.63 in chips)
+Seat 3: pokekrk ($10 in chips)
+Seat 4: aapokerkot ($10 in chips)
+Seat 5: st4tion ($13.94 in chips)
+Seat 6: AIONCMA1988 ($1.50 in chips)
+Xander188: posts small blind $0.05
+pokekrk: posts big blind $0.10
+*** HOLE CARDS ***
+aapokerkot: folds
+st4tion: folds
+AIONCMA1988: raises $0.10 to $0.20
+AM-L-SL: raises $0.60 to $0.80
+Xander188: calls $0.75
+pokekrk: folds
+AIONCMA1988: raises $0.70 to $1.50 and is all-in
+st4tion leaves the table
+AM-L-SL: calls $0.70
+Xander188: calls $0.70
+*** FLOP *** [7d 7s 9d]
+Xander188: checks
+AM-L-SL: checks
+*** TURN *** [7d 7s 9d] [Js]
+Xander188: checks
+AM-L-SL: checks
+*** RIVER *** [7d 7s 9d Js] [6s]
+Xander188: checks
+AM-L-SL: bets $2.20
+Xander188: folds
+Uncalled bet ($2.20) returned to AM-L-SL
+*** SHOW DOWN ***
+AM-L-SL: shows [As 4s] (a flush, Ace high)
+AIONCMA1988: shows [Ac 8d] (a pair of Sevens)
+AM-L-SL collected $4.39 from pot
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.21
+Board [7d 7s 9d Js 6s]
+Seat 1: AM-L-SL (button) showed [As 4s] and won ($4.39) with a flush, Ace high
+Seat 2: Xander188 (small blind) folded on the River
+Seat 3: pokekrk (big blind) folded before Flop
+Seat 4: aapokerkot folded before Flop (didn't bet)
+Seat 5: st4tion folded before Flop (didn't bet)
+Seat 6: AIONCMA1988 showed [Ac 8d] and lost with a pair of Sevens

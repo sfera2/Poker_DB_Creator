@@ -1,0 +1,35 @@
+PokerStars Hand #166685278123:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:25:37 ET
+Table 'Libera' 6-max Seat #6 is the button
+Seat 1: Marius29x ($10.05 in chips) 
+Seat 2: Dawidlobuz ($15.92 in chips) 
+Seat 3: alexrain600 ($10.25 in chips) 
+Seat 4: p19722003 ($10 in chips) 
+Seat 5: outmuscled ($6.18 in chips) 
+Seat 6: stcman ($10.05 in chips) 
+Marius29x: posts small blind $0.05
+Dawidlobuz: posts big blind $0.10
+*** HOLE CARDS ***
+alexrain600: folds 
+p19722003: folds 
+outmuscled: calls $0.10
+stcman: folds 
+Marius29x: folds 
+Dawidlobuz: checks 
+*** FLOP *** [9d 4s Kh]
+Dawidlobuz: checks 
+outmuscled: checks 
+*** TURN *** [9d 4s Kh] [Js]
+Dawidlobuz: checks 
+outmuscled: bets $0.12
+Dawidlobuz: folds 
+Uncalled bet ($0.12) returned to outmuscled
+outmuscled collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9d 4s Kh Js]
+Seat 1: Marius29x (small blind) folded before Flop
+Seat 2: Dawidlobuz (big blind) folded on the Turn
+Seat 3: alexrain600 folded before Flop (didn't bet)
+Seat 4: p19722003 folded before Flop (didn't bet)
+Seat 5: outmuscled collected ($0.24)
+Seat 6: stcman (button) folded before Flop (didn't bet)

@@ -1,0 +1,33 @@
+PokerStars Hand #166685288911:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:26:17 ET
+Table 'Hveen' 6-max Seat #5 is the button
+Seat 1: dedea1989 ($9 in chips) 
+Seat 2: SVMono ($15.23 in chips) 
+Seat 3: lagun777 ($3.13 in chips) 
+Seat 4: mirked91 ($18.81 in chips) 
+Seat 5: Polypops ($10 in chips) 
+Seat 6: Ivo.S06 ($2.62 in chips) 
+Ivo.S06: posts small blind $0.05
+dedea1989: posts big blind $0.10
+*** HOLE CARDS ***
+SVMono: folds 
+lagun777: calls $0.10
+mirked91: folds 
+Polypops: folds 
+Ivo.S06: raises $0.50 to $0.60
+dedea1989: calls $0.50
+lagun777: calls $0.50
+*** FLOP *** [Qd 9h Qc]
+Ivo.S06: bets $2.02 and is all-in
+dedea1989: folds 
+lagun777: folds 
+Uncalled bet ($2.02) returned to Ivo.S06
+Ivo.S06 collected $1.72 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Qd 9h Qc]
+Seat 1: dedea1989 (big blind) folded on the Flop
+Seat 2: SVMono folded before Flop (didn't bet)
+Seat 3: lagun777 folded on the Flop
+Seat 4: mirked91 folded before Flop (didn't bet)
+Seat 5: Polypops (button) folded before Flop (didn't bet)
+Seat 6: Ivo.S06 (small blind) collected ($1.72)

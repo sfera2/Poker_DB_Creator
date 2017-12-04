@@ -1,0 +1,32 @@
+PokerStars Hand #166874892722:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/27 17:51:53 ET
+Table 'Shapleya III' 6-max Seat #5 is the button
+Seat 3: fmljegvinder ($20.72 in chips) 
+Seat 4: Moersik ($11.50 in chips) 
+Seat 5: zambow20 ($10.13 in chips) 
+Seat 6: archer2511 ($10 in chips) 
+archer2511: posts small blind $0.05
+fmljegvinder: posts big blind $0.10
+*** HOLE CARDS ***
+Moersik: folds 
+zambow20: raises $0.14 to $0.24
+archer2511: folds 
+fmljegvinder: raises $0.56 to $0.80
+zambow20: raises $1 to $1.80
+fmljegvinder: raises $18.92 to $20.72 and is all-in
+zambow20: calls $8.33 and is all-in
+Uncalled bet ($10.59) returned to fmljegvinder
+*** FLOP *** [Qs Tc Qc]
+*** TURN *** [Qs Tc Qc] [Ah]
+*** RIVER *** [Qs Tc Qc Ah] [Th]
+*** SHOW DOWN ***
+fmljegvinder: shows [Kh Ac] (two pair, Aces and Queens)
+zambow20: shows [As Ks] (two pair, Aces and Queens)
+fmljegvinder collected $9.70 from pot
+zambow20 collected $9.70 from pot
+*** SUMMARY ***
+Total pot $20.31 | Rake $0.91 
+Board [Qs Tc Qc Ah Th]
+Seat 3: fmljegvinder (big blind) showed [Kh Ac] and won ($9.70) with two pair, Aces and Queens
+Seat 4: Moersik folded before Flop (didn't bet)
+Seat 5: zambow20 (button) showed [As Ks] and won ($9.70) with two pair, Aces and Queens
+Seat 6: archer2511 (small blind) folded before Flop

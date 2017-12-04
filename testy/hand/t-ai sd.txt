@@ -1,0 +1,38 @@
+PokerStars Hand #166685308841:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:27:30 ET
+Table 'Eurydome II' 6-max Seat #5 is the button
+Seat 1: pokerdogg45 ($9.90 in chips) 
+Seat 2: Polypops ($10.25 in chips) 
+Seat 3: hieptem ($7.17 in chips) 
+Seat 4: peke10go ($10.53 in chips) 
+Seat 5: SVMono ($14.09 in chips) 
+Seat 6: titanik80 ($10 in chips) 
+titanik80: posts small blind $0.05
+pokerdogg45: posts big blind $0.10
+*** HOLE CARDS ***
+Polypops: folds 
+hieptem: folds 
+peke10go: folds 
+SVMono: folds 
+titanik80: raises $0.20 to $0.30
+pokerdogg45: calls $0.20
+*** FLOP *** [Ad Ac Jh]
+titanik80: bets $0.38
+pokerdogg45: calls $0.38
+*** TURN *** [Ad Ac Jh] [Td]
+titanik80: bets $0.86
+pokerdogg45: raises $8.36 to $9.22 and is all-in
+titanik80: calls $8.36
+*** RIVER *** [Ad Ac Jh Td] [9d]
+*** SHOW DOWN ***
+titanik80: shows [Qh Kh] (a straight, Ten to Ace)
+pokerdogg45: shows [5c Jc] (two pair, Aces and Jacks)
+titanik80 collected $18.91 from pot
+*** SUMMARY ***
+Total pot $19.80 | Rake $0.89 
+Board [Ad Ac Jh Td 9d]
+Seat 1: pokerdogg45 (big blind) showed [5c Jc] and lost with two pair, Aces and Jacks
+Seat 2: Polypops folded before Flop (didn't bet)
+Seat 3: hieptem folded before Flop (didn't bet)
+Seat 4: peke10go folded before Flop (didn't bet)
+Seat 5: SVMono (button) folded before Flop (didn't bet)
+Seat 6: titanik80 (small blind) showed [Qh Kh] and won ($18.91) with a straight, Ten to Ace

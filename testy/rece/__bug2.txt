@@ -1,0 +1,35 @@
+PokerStars Hand #166669177552:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/23 16:33:03 ET
+Table 'Selinur' 6-max Seat #3 is the button
+Seat 1: MrGroPecheur ($10.47 in chips) 
+Seat 2: Baldr'el ($10 in chips) 
+Seat 3: bambolejro ($10.49 in chips) 
+Seat 4: Bird et al ($10 in chips) 
+Seat 5: DrVzad ($22.98 in chips) 
+Seat 6: homelessdan ($11.64 in chips) 
+Bird et al: posts small blind $0.05
+DrVzad: posts big blind $0.10
+Baldr'el: posts big blind $0.10
+*** HOLE CARDS ***
+homelessdan: folds 
+MrGroPecheur: folds 
+Baldr'el: checks 
+bambolejro: folds 
+Bird et al: folds 
+DrVzad: checks 
+*** FLOP *** [As Ts 9d]
+DrVzad: checks 
+Baldr'el: checks 
+*** TURN *** [As Ts 9d] [Qs]
+DrVzad: bets $0.20
+Baldr'el: folds 
+Uncalled bet ($0.20) returned to DrVzad
+DrVzad collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As Ts 9d Qs]
+Seat 1: MrGroPecheur folded before Flop (didn't bet)
+Seat 2: Baldr'el folded on the Turn
+Seat 3: bambolejro (button) folded before Flop (didn't bet)
+Seat 4: Bird et al (small blind) folded before Flop
+Seat 5: DrVzad (big blind) collected ($0.24)
+Seat 6: homelessdan folded before Flop (didn't bet)

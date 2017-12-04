@@ -1,0 +1,29 @@
+PokerStars Hand #166685284994:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:26:03 ET
+Table 'Mentor' 6-max Seat #4 is the button
+Seat 1: DayaShip ($10.35 in chips) 
+Seat 2: markgr111 ($6.83 in chips) 
+Seat 3: Vovchique ($11.51 in chips) 
+Seat 4: Sashabur ($21.24 in chips) 
+Seat 5: LarryTheStar ($10 in chips) 
+Seat 6: Andy Wolf ($14.64 in chips) 
+LarryTheStar: posts small blind $0.05
+Andy Wolf: posts big blind $0.10
+*** HOLE CARDS ***
+DayaShip: folds 
+markgr111: folds 
+Vovchique: raises $0.20 to $0.30
+Sashabur: raises $0.75 to $1.05
+LarryTheStar: folds 
+Andy Wolf: folds 
+Vovchique: raises $10.46 to $11.51 and is all-in
+Sashabur: folds [Ah Jc]
+Uncalled bet ($10.46) returned to Vovchique
+Vovchique collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: DayaShip folded before Flop (didn't bet)
+Seat 2: markgr111 folded before Flop (didn't bet)
+Seat 3: Vovchique collected ($2.25)
+Seat 4: Sashabur (button) folded before Flop
+Seat 5: LarryTheStar (small blind) folded before Flop
+Seat 6: Andy Wolf (big blind) folded before Flop

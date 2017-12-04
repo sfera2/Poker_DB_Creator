@@ -1,0 +1,38 @@
+PokerStars Hand #166685341764:  Hold'em No Limit ($0.05/$0.10 USD) - 2017/02/24 1:29:21 ET
+Table 'Ostara III' 6-max Seat #6 is the button
+Seat 1: Oscaryynn ($5.49 in chips) 
+Seat 2: mdelfin0 ($18.20 in chips) 
+Seat 3: Juliutzzz ($4.25 in chips) 
+Seat 4: elik9 ($15.41 in chips) 
+Seat 5: Cableguy0071 ($9.35 in chips) 
+Seat 6: DayaShip ($10.18 in chips) 
+Oscaryynn: posts small blind $0.05
+mdelfin0: posts big blind $0.10
+*** HOLE CARDS ***
+Juliutzzz: raises $0.13 to $0.23
+elik9: folds 
+Cableguy0071: folds 
+DayaShip: folds 
+Oscaryynn: calls $0.18
+mdelfin0: folds 
+*** FLOP *** [Jh 3s Jc]
+Oscaryynn: checks 
+Juliutzzz: checks 
+*** TURN *** [Jh 3s Jc] [7c]
+Oscaryynn: bets $0.27
+Juliutzzz: calls $0.27
+*** RIVER *** [Jh 3s Jc 7c] [Ts]
+Oscaryynn: bets $1
+Juliutzzz: raises $2.75 to $3.75 and is all-in
+Oscaryynn: folds [9c 2c]
+Uncalled bet ($2.75) returned to Juliutzzz
+Juliutzzz collected $2.96 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [Jh 3s Jc 7c Ts]
+Seat 1: Oscaryynn (small blind) folded on the River
+Seat 2: mdelfin0 (big blind) folded before Flop
+Seat 3: Juliutzzz collected ($2.96)
+Seat 4: elik9 folded before Flop (didn't bet)
+Seat 5: Cableguy0071 folded before Flop (didn't bet)
+Seat 6: DayaShip (button) folded before Flop (didn't bet)

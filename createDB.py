@@ -10,14 +10,14 @@ import os
 
 def connection():
     try:
-        conn = psycopg2.connect(database="Hud", user="postgres",
+        conn = psycopg2.connect(database="nowa", user="postgres",
                                 password="postgrespass", host='localhost',
                                 port='5432')
         # print('super')
         curs = conn.cursor()
     except psycopg2.OperationalError:
         print(sys.exc_info())
-        print('lipa')
+        print('connection failed')
         sys.exit()
     return conn, curs
 
@@ -277,13 +277,16 @@ def folder_to_db(folder):
 
 if __name__ == '__main__':
     conn, curs = connection()
+    drop_tables(curs, conn)
+    create_schema(curs, conn)
 
-    folder_base = 'E:/sfera/poker/rece/'
-    folder_back = 'E:/sfera/poker/rece backup/'
+    folder_base = os.getcwd() + '/hands/'
+    folder_back = os.getcwd() + '/hands_backup/'
 
-    i = 0
+    i, cnt = 0, 0
+    t = time.time()
+
     for file in folder_to_db(folder_base):
-        t = time.time()
         dirc = folder_base + file
         try:
             hands_t = read_hands(dirc)
@@ -296,8 +299,10 @@ if __name__ == '__main__':
             hands = p.map(make_hand, hands_t, chunksize=1)
             huds = p.map(make_hud, hands, chunksize=1)
         os.rename(dirc, folder_back + file)
+        cnt += len(huds)
 
         print('Filling...')
         fill_tables(curs, conn, huds)
-        print('Filled. Average time: ', len(huds) / (time.time() - t), len(huds))
+        print('Filled. Average time: ', round(cnt / (time.time() - t), 2),
+              'hands/s')
         print()

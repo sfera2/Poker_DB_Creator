@@ -10,7 +10,7 @@ import os
 
 def connection():
     try:
-        conn = psycopg2.connect(database="nowa", user="postgres",
+        conn = psycopg2.connect(database="new", user="postgres",
                                 password="postgrespass", host='localhost',
                                 port='5432')
         # print('super')
@@ -23,6 +23,7 @@ def connection():
 
 
 def drop_tables(cur, con):
+    # for testing when needed to empty database
     cur.execute(''' DROP TABLE IF EXISTS public.hands_info CASCADE''')
     cur.execute(''' DROP TABLE IF EXISTS public.hands CASCADE''')
     cur.execute(''' DROP TABLE IF EXISTS public.players CASCADE''')
@@ -277,10 +278,12 @@ def folder_to_db(folder):
 
 if __name__ == '__main__':
     conn, curs = connection()
-    drop_tables(curs, conn)
+    # drop_tables(curs, conn)
     create_schema(curs, conn)
 
     folder_base = os.getcwd() + '/hands/'
+    if not os.path.exists(os.getcwd() + '/hands_backup/'):
+        os.makedirs(os.getcwd() + '/hands_backup/')
     folder_back = os.getcwd() + '/hands_backup/'
 
     i, cnt = 0, 0

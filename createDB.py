@@ -281,10 +281,9 @@ if __name__ == '__main__':
     folder_base = 'E:/sfera/poker/rece/'
     folder_back = 'E:/sfera/poker/rece backup/'
 
-    i, cnt = 0, 0
-    t = time.time()
-
+    i = 0
     for file in folder_to_db(folder_base):
+        t = time.time()
         dirc = folder_base + file
         try:
             hands_t = read_hands(dirc)
@@ -297,10 +296,8 @@ if __name__ == '__main__':
             hands = p.map(make_hand, hands_t, chunksize=1)
             huds = p.map(make_hud, hands, chunksize=1)
         os.rename(dirc, folder_back + file)
-        cnt += len(huds)
 
         print('Filling...')
         fill_tables(curs, conn, huds)
-        print('Filled. Average time: ', round(cnt / (time.time() - t), 2),
-              'hands/s')
+        print('Filled. Average time: ', len(huds) / (time.time() - t), len(huds))
         print()
